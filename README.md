@@ -1,4 +1,4 @@
-## Watch snake eating my github contributions
+
 
 ![snake gif](https://github.com/senshine20/senshine20/blob/output/github-contribution-grid-snake.gif)
 
