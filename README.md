@@ -1,3 +1,7 @@
+## Watch snake eating my github contributions
+
+![snake gif](https://github.com/senshine20/senshine20/blob/output/github-contribution-grid-snake.gif)
+
 <h1 align="center">Hallo 👋, I'm Sendi Winoto</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
