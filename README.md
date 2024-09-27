@@ -1,6 +1,7 @@
-
-
-![snake gif](https://github.com/senshine20/senshine20/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://github.com/senshine20/senshine20/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <h1 align="center">Hallo 👋, I'm Sendi Winoto</h1>
 <h3 align="left">Connect with me:</h3>
