@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://github.com/senshine20/senshine20/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/senshiner/senshiner/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
 <h1 align="center">Hallo 👋, I'm Sendi Winoto</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/senspirify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senspirify" height="30" width="40" /></a>
-<a href="https://discord.gg/senmile#4500" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="senmile#4500" height="30" width="40" /></a>
+  <a href="https://instagram.com/senspirify" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senspirify" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/senmile#4500" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="senmile#4500" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +28,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
