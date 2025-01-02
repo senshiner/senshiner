@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/senshiner/senshiner/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<h1 align="center">Hallo 👋, I'm Sendi Winoto</h1>
+<h1 align="center">Hallo 👋, I'm Sendi Winoto (senshiner)</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/senspirify" target="blank">
