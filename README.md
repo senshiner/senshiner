@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/senshiner/senshiner/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://github.com/senshiner/senshiner/blob/main/resources/img/grid-snake.svg"
+       alt="snake" />
 </div>
 
-<h1 align="center">Hallo 👋, I'm Sendi Winoto (senshiner)</h1>
+<h1 align="center">Hallo 👋, I'm Sendi Winoto</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/senspirify" target="blank">
@@ -24,7 +25,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a>
 </p>
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=senshiner&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senshiner&theme=radical" alt="GitHub Streak Stats" width="48%" />
+</div>
