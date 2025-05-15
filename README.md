@@ -1,6 +1,6 @@
 ![Sendi Winoto](img/github-header-image.png)
 
-####
+#####
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph.svg">
