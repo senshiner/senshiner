@@ -1,21 +1,21 @@
 ![Sendi Winoto](img/github-header-image.png)
 
-#####
+####
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph.svg">
 </picture>
 
-######
+#####
 
-##### 🌐 Socials:
+#### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senspirify) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sendi.w20@gmail.com) 
 
-##### 💻 Tech Stack:
+#### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,python,css&theme=dark)]
 
-######
+#####
 <div align="center">
   <img height="200" src="https://pbs.twimg.com/media/GHP9V1XWoAEv9-m.jpg"  />
 </div>
@@ -25,5 +25,5 @@
   </a>
 </div>
 
-##### 📊 GitHub Stats:
-![streak](https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false)
+#### 📊 GitHub Stats:
+![streak](https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
