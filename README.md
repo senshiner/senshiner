@@ -1,4 +1,6 @@
-![Sendi Winoto](img/github-header-image.png)
+<div align="center">
+  <img src="img/github-header-image.png"  />
+</div>
 
 #####
 <picture>
