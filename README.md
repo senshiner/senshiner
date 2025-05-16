@@ -35,5 +35,7 @@ ___
 
 ___
 
+<div align="center">
 ##### 📊 GitHub Stats:
   ![streak](https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  </div>
