@@ -27,6 +27,7 @@ ___
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mhedlvguhecy63xl2mabfwntl4&cover_image=true&theme=novatorem" alt="Spotify GitHub Profile" width="50%">
   </a>
 </p>
+
 ___
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
