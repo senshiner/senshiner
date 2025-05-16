@@ -23,9 +23,11 @@
 </div>
 <div align="center">
   <h2>🎧 Now Playing on Spotify 🎵</h2>
-  <a href="https://open.spotify.com/user/31mhedlvguhecy63xl2mabfwntl4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhedlvguhecy63xl2mabfwntl4&count=1&unique=true" alt="Spotify recently played"  />
+  <p>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mhedlvguhecy63xl2mabfwntl4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=00ffff&bar_color_cover=false" alt="Spotify GitHub Profile" width="30%">
   </a>
+</p>
 
   #### 📊 GitHub Stats:
   ![streak](https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
