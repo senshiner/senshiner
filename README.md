@@ -27,7 +27,7 @@
   <a href="https://open.spotify.com/user/31mhedlvguhecy63xl2mabfwntl4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhedlvguhecy63xl2mabfwntl4&count=1&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
 
 #### 📊 GitHub Stats:
 ![streak](https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false) ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
