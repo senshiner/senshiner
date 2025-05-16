@@ -22,9 +22,12 @@
   <img height="200" src="https://pbs.twimg.com/media/GHP9V1XWoAEv9-m.jpg"  />
 </div>
 <div align="center">
-  <a href="https://open.spotify.com/user/31mhedlvguhecy63xl2mabfwntl4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mhedlvguhecy63xl2mabfwntl4&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+  <h2>🎧 Now Playing on Spotify 🎵</h2>
+  <p>
+    <a href="https://open.spotify.com/user/31mhedlvguhecy63xl2mabfwntl4">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="30%">
+    </a>
+  </p>
 </div>
 
 #### 📊 GitHub Stats:
