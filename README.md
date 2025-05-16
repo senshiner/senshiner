@@ -23,9 +23,10 @@
 </div>
 <div align="center">
   <h2>🎧 Now Playing on Spotify 🎵</h2>
+
   <p>
     <a href="https://open.spotify.com/user/31mhedlvguhecy63xl2mabfwntl4">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31253dtz6tzyra5ewpcgpipeuefy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="30%">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mhedlvguhecy63xl2mabfwntl4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Now Playing on Spotify" width="30%">
     </a>
   </p>
 </div>
