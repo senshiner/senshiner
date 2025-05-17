@@ -18,7 +18,7 @@
 ___
 
 <div align="center">
-  <img height="200" src="https://pbs.twimg.com/media/GHP9V1XWoAEv9-m.jpg"  />
+  <img height="200" src="img/silverwolf.png"  />
 </div>
 
 <h3 align="center">🎧 Now Playing on Spotify 🎵</h3>
