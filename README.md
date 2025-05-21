@@ -10,7 +10,7 @@
 </div>
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senspirify) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sendi.w20@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senspirify) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sendi-winoto-801135155)
 
 ### 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,html,python,css&theme=dark)
