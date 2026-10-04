@@ -1,37 +1,22 @@
-<div>
-  <div align="center">
-    <img src="img/github-header-image.png"  />
-  </div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/senshiner/senshiner/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
+<a href="https://senshiner.is-a.dev">
+  <img src="img/senshiner-title.svg" alt="Senshiner" />
+</a>
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/senspirify) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sendi-winoto-801135155)
-
-### 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=js,html,python,css&theme=dark)
+### 🛠️ Language and Tools
+<img src="https://skillicons.dev/icons?i=php,js,py,html,css,cpp,ts,java,lua,git,bash,docker&theme=dark" alt="Language and Tools" />
 
 ___
 
-<div align="center">
-  <img height="200" src="img/silverwolf.png"  />
-</div>
+<img height="200" src="img/silverwolf.png" alt="Silver Wolf" />
 
-<h3 align="center">🎧 Now Playing on Spotify 🎵</h3>
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mhedlvguhecy63xl2mabfwntl4&cover_image=true&theme=novatorem" alt="Spotify GitHub Profile" width="50%">
-  </a>
-</p>
+### 🎧 Now Playing on Spotify
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31mhedlvguhecy63xl2mabfwntl4&cover_image=true&theme=novatorem" alt="Spotify GitHub Profile" />
+</a>
 
 ___
 
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+<br />
+<img src="https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
