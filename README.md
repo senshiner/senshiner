@@ -19,4 +19,4 @@ ___
 ### GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senshiner&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 <br />
-<img src="https://nirzak-streak-stats.vercel.app/?user=senshiner&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=senshiner&theme=catppuccin_mocha&hide_border=false" alt="GitHub Streak" />
